@@ -73,7 +73,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 </span>
               </div>
               <span className="text-[11px] text-slate-400 hidden xl:block leading-none">
-                ฉลาดรู้ทันปัญญาประดิษฐ์ • นายเสฏฐวุฒิ เมืองพันธ์
+                ฉลาดรู้ทันปัญญาประดิษฐ์
               </span>
             </div>
           </div>
@@ -208,7 +208,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               className="flex items-center justify-center gap-2 w-full py-2.5 rounded-xl bg-slate-800/80 hover:bg-slate-700 text-slate-200 text-xs font-medium border border-slate-700 transition-colors"
             >
               <HelpCircle className="w-4 h-4 text-indigo-400" />
-              <span>ข้อมูลโครงการและการศึกษาค้นคว้า (เสฏฐวุฒิ เมืองพันธ์ 670610231)</span>
+              <span>ข้อมูลโครงการและการศึกษาค้นคว้า</span>
             </button>
           </div>
         </div>
