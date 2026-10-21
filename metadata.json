@@ -1,0 +1,8 @@
+{
+  "name": "AI Literacy: ฉลาดรู้ทันปัญญาประดิษฐ์",
+  "description": "เว็บแอปพลิเคชันเพื่อการเรียนรู้ความฉลาดรู้ด้านปัญญาประดิษฐ์ สำหรับนักเรียนและนักศึกษา ผ่านกระบวนการแก้ปัญหาเชิงสร้างสรรค์ (CPS) และการฝึกปฏิบัติจริง",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
